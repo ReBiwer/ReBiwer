@@ -35,4 +35,5 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=rebiwer
+[![GitHub Streak](https://streak-stats.demolab.com?user=rebiwer&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
