@@ -7,24 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJyaW8zbjU2YndyNnlvcGhlN3llamQ4a3F6dW96bmhoMGI4emZlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
   <a href="https://t.me/ReBiwer">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
   </a>
+</div>
 
 ---
 
 ### :man_technologist: Обо мне:
 Я — Python разработчик с коммерческим опытом работы над проектами как в команде, так и на фрилансе.
-
 Успешно разработал парсер для ВКонтакте с интеграцией Google Sheets и телеграм-ботом. Участвовал в создании интернет-магазина на Django, где занимался моделями данных и настройкой CI.
-
 Обладаю навыками работы с различными инструментами, включая Docker и PostgreSQL. Стремлюсь развиваться и применять свои знания на практике.
-
 В данный момент углубляю свои технические знания. В будущем планирую изучать машинное обучение для создания нейросетей для определенных задач.
 
 ---
