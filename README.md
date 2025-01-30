@@ -36,4 +36,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ReBiwer&theme=highcontrast&hide_border=true&locale=ru)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebiwer)](https://github.com/anuraghazra/github-readme-stats)
