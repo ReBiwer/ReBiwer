@@ -12,10 +12,12 @@
 
 <div align="left">
   Контакты:
-  email: <a href="mailto:vovka1998@gmail.com">vovka1998@gmail.com</a>
-  <a href="https://t.me/ReBiwer">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
-  </a>
+  <span>email: <a href="mailto:vovka1998@gmail.com">vovka1998@gmail.com</a></span>
+  <span>
+    <a href="https://t.me/ReBiwer">
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
+    </a>
+  </span>
 </div>
 
 ---
