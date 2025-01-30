@@ -1,9 +1,10 @@
-  <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
+  
+<div>
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Приветствую!
+    Привет, я Владимир
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="header" align="center">
