@@ -8,14 +8,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Приветствую <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне:
 Я — Python разработчик с коммерческим опытом работы над проектами как в команде, так и на фрилансе.
 
 Успешно разработал парсер для ВКонтакте с интеграцией Google Sheets и телеграм-ботом. Участвовал в создании интернет-магазина на Django, где занимался моделями данных и настройкой CI.
@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBiwer&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReBiwer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
