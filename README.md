@@ -1,3 +1,11 @@
+  <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Приветствую!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJyaW8zbjU2YndyNnlvcGhlN3llamQ4a3F6dW96bmhoMGI4emZlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
@@ -6,12 +14,6 @@
   <a href="https://t.me/ReBiwer">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Приветствую <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
 
 ---
 
