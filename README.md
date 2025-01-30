@@ -6,18 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="header" align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJyaW8zbjU2YndyNnlvcGhlN3llamQ4a3F6dW96bmhoMGI4emZlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
-</div>
+
 
 <div align="left">
-  Контакты:
-  <span>email: <a href="mailto:vovka1998@gmail.com">vovka1998@gmail.com</a></span>
-  <span>
+  <div>Контакты:</div>
+  <div>email: <a href="mailto:vovka1998@gmail.com">vovka1998@gmail.com</a></div>
+  <div>
     <a href="https://t.me/ReBiwer">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
     </a>
-  </span>
+  </div>
 </div>
 
 ---
