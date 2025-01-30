@@ -7,17 +7,6 @@
 </div>
 
 
-
-<div align="left">
-  <div>Контакты:</div>
-  <div>email: <a href="mailto:vovka1998@gmail.com">vovka1998@gmail.com</a></div>
-  <div>
-    <a href="https://t.me/ReBiwer">
-      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
-    </a>
-  </div>
-</div>
-
 ---
 
 ### :man_technologist: Обо мне:
@@ -25,6 +14,10 @@
 Успешно разработал парсер для ВКонтакте с интеграцией Google Sheets и телеграм-ботом. Участвовал в создании интернет-магазина на Django, где занимался моделями данных и настройкой CI.
 Обладаю навыками работы с различными инструментами, включая Docker и PostgreSQL. Стремлюсь развиваться и применять свои знания на практике.
 В данный момент углубляю свои технические знания. В будущем планирую изучать машинное обучение для создания нейросетей для определенных задач.
+
+<a href="https://t.me/ReBiwer">
+  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
+</a>
 
 ---
 
