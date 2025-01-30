@@ -16,7 +16,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я — Python разработчик с коммерческим опытом работы над проектами как в команде, так и на фрилансе.
+
+Успешно разработал парсер для ВКонтакте с интеграцией Google Sheets и телеграм-ботом. Участвовал в создании интернет-магазина на Django, где занимался моделями данных и настройкой CI.
+
+Обладаю навыками работы с различными инструментами, включая Docker и PostgreSQL. Стремлюсь развиваться и применять свои знания на практике.
+
+В данный момент углубляю свои технические знания. В будущем планирую изучать машинное обучение для создания нейросетей для определенных задач.
 
 ---
 
@@ -34,8 +40,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBiwer&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReBiwer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
