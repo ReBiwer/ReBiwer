@@ -1,4 +1,3 @@
-  
 <div>
   <h1>
     Привет, я Владимир
@@ -9,8 +8,13 @@
 
 <div id="header" align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJyaW8zbjU2YndyNnlvcGhlN3llamQ4a3F6dW96bmhoMGI4emZlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+</div>
+
+<div align="left">
+  Контакты:
+  email: <a href="mailto:vovka1998@gmail.com">vovka1998@gmail.com</a>
   <a href="https://t.me/ReBiwer">
-      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
   </a>
 </div>
 
