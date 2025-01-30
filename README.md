@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=rebiwer&style=flat-square&color=blue" alt=""/>
   <h1>
     Привет, я Владимир
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
