@@ -18,7 +18,6 @@
 Выбор нового направления в качестве python разработчика, обусловлен тем, что разработчик творческая и в то же время техническая профессия. Разработка дает возможность делать жизнь проще как для бизнеса, так и для людей.
 
 Telegram: https://t.me/ReBiwer
-Github: https://github.com/ReBiwer
 <a href="https://t.me/ReBiwer">
   <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
 </a>
