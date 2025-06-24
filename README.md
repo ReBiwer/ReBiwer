@@ -17,7 +17,8 @@
 
 Выбор нового направления в качестве python разработчика, обусловлен тем, что разработчик творческая и в то же время техническая профессия. Разработка дает возможность делать жизнь проще как для бизнеса, так и для людей.
 
-Написать мне <a href="https://t.me/ReBiwer">
+<a href="https://t.me/ReBiwer">
+  Контакт: 
   <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram badge"/>
 </a>
 
